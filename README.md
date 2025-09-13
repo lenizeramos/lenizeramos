@@ -1,7 +1,7 @@
 # 👋 Hey there, I’m Leni!
 
 🇧🇷 Originally from Brazil &nbsp;&nbsp;&nbsp;🌎 Currently based in Vancouver, Canada  
-🎓 Former lawyer turned web developer  
+🎓 Former lawyer turned developer  
 💡 Passionate about building smart, accessible, and user-focused applications  
 
 ---
@@ -45,7 +45,7 @@ A responsive restaurant e-commerce platform for placing and managing food orders
 
 ## ✨ Fun Facts
 
-- I’m always learning — currently diving into Cracking the Coding Interview to review and strengthen the knowledge I gained during college.
+- I’m always learning.
 - I co-code and debug with my husband (a software engineer with 15+ years of experience).
 - I love travel, running, and clean UI design.
 
